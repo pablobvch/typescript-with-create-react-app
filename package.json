@@ -17,6 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "test:tsc": "tsc -p tsconfig.test.json -w",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
